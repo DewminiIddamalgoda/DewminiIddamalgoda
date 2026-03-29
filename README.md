@@ -64,8 +64,8 @@
 <h3 align="center">🐍 Contributions in Motion</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dewminiiddamalgoda/dewminiiddamalgoda/output/github-contribution-grid-snake-dark.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/dewminiiddamalgoda/dewminiiddamalgoda/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DewminiIddamalgoda/DewminiIddamalgoda/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/DewminiIddamalgoda/DewminiIddamalgoda/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
